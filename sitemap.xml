@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
+         <loc>https://baptistafabricio87.github.io/python_basicao/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/enviroment/</loc>
+         <loc>https://baptistafabricio87.github.io/python_basicao/enviroment/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/instalation/</loc>
+         <loc>https://baptistafabricio87.github.io/python_basicao/instalation/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/install_linux/</loc>
+         <loc>https://baptistafabricio87.github.io/python_basicao/install_linux/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/install_windows/</loc>
+         <loc>https://baptistafabricio87.github.io/python_basicao/install_vsc_windows/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/overview/</loc>
+         <loc>https://baptistafabricio87.github.io/python_basicao/install_windows/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/validation/</loc>
+         <loc>https://baptistafabricio87.github.io/python_basicao/overview/</loc>
+         <lastmod>2023-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://baptistafabricio87.github.io/python_basicao/overview_vsc/</loc>
+         <lastmod>2023-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://baptistafabricio87.github.io/python_basicao/validation/</loc>
          <lastmod>2023-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
