@@ -1,14 +1,25 @@
-site_name: Basico
+site_name: Python Basicao
 
-site_url: https://example.com/
+site_url: https://baptistafabricio87.github.io/python_basicao/
+
 nav:
   - Introdução: index.md
   - Visão Geral: overview.md
-  - Comunidade: comunity.md
+  - Ambiente Virtual: enviroment.md
+  - Validar Python: validation.md
+  - Instalação Linux: install_linux.md
+  - Instalação Windows: install_windows.md
+  - Visual Studio Code: overview_vsc.md
+  - Instalar VSC no Windows: install_vsc_windows.md
+  - Instalar VSC no Linux: install_vsc_linux.md
 
 theme:
   language: pt-BR
   name: material
+  
+  features:
+    - navigation.footer
+    
   palette:
 
     # Palette toggle for light mode
