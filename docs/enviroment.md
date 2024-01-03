@@ -16,11 +16,8 @@ Ao final deste capítulo, você saberá como:
 
 - Instalar o Python 3.
 - Instalar e configurar o VS Code e extensões para Python.
-- Crie um arquivo Python .py.
-- Escreva e execute o código Python no Visual Studio Code.
+- Criar Ambiente Virtual Python (venv)
 
 ### Pré-requisitos
 - Capacidade de instalar programa localmente.
 - Conhecimento de como abrir e executar comandos usando um terminal.
-
-[Próximo Passo]()
