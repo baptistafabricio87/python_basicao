@@ -30,22 +30,24 @@ Digite 'cmd' na caixa de pesquisa do Windows e selecione o Aplicativo Prompt de 
 
 Insira o comando a seguir e pressione Enter:
 
-Console:
-
-```python --version```
+```Bash
+python --version
+```
 
 Após realizar este procedimento, o retorno deve ser semelhante a saida abaixo:
 
-Saída:
 
-```Python 3.11.4```
-
-> **Observação:**
->
->Se o primeiro número for 3, o Python 3 estará instalado no computador.
+```Bash
+Python 3.11.4
+```
 
 Caso o retorno seja diferente disso, ou um erro, significa que o Python não está instalado no seu sistema. 
 
-Vamos seguir para a instalação ? 
+<br>
+> **Importante**
+>
+> Para sistemas Linux o comando é basicamente o mesmo, o que difere é que em algumas distribuições é necessário especificar a versão do python, por exemplo: 
+>```python3 --version```
 
-[Próximo Passo](instalation.md)
+<br>
+**Vamos seguir para a instalação ?**
