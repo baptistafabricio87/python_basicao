@@ -1,6 +1,8 @@
 # Instalar o Python no Windows da Microsoft Store
 
-Abra a Microsoft Store selecionando Iniciar, digitando iniciar Microsoft Store.
+Esta é a forma mais simples de isntalar o Python no Windows.
+
+Abra a loja de apps Microsoft Store selecionando Iniciar, digitando 'Microsoft Store'.
 
 Depois de aberta, pesquise por Python.
 
@@ -8,7 +10,7 @@ Você encontrará várias opções.
 
 Selecione a versão mais recente do Python.
 
-![Captura da tela dos resultados da pesquisa da Microsoft Store para Python, destacando o Python 3.11.](assets\windows-install-python-search.png)
+![Captura da tela dos resultados da pesquisa da Microsoft Store para Python, destacando o Python 3.11](assets\windows-install-python-search.png)
 
 Na guia Início, clique 'Obter' ou 'Instalar'.
 
@@ -28,17 +30,14 @@ Após a instalação do Python, retorne ao prompt de comando para verificar se a
 
 Insira o seguinte comando:
 
-Console
-
-``python --version``
+```bash
+python --version
+```
 
 O retorno deve ser semelhante a saida abaixo:
 
-Saída:
+```bash
+Python 3.11.4
+```
 
-```Python 3.11.4```
-
-
-Agora, você instalou o Python com êxito!
-
-[Próximo Passo]()
+**Agora, você instalou o Python com êxito!**
