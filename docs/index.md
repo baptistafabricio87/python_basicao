@@ -5,6 +5,8 @@
 Neste roteiro de aprendizagem, você vai:
 
 - Ter uma visão geral do Python.
+- Instalar o Python (Windows/Linux).
+- Instalar e utilizar um Ambiente Virtual.
 - Escrever seu primeiro programa (script) em Python.
 - Explorar pacotes para gerenciar melhor os projetos.
 - Conhecer noções básicas do Python, incluindo os seguintes elementos:
@@ -19,5 +21,3 @@ Neste roteiro de aprendizagem, você vai:
 - Familiarizar-se com os notebooks Jupyter
 
 ***Pronto para iniciar sua jornada?***
-
-[Iniciar](overview.md)
