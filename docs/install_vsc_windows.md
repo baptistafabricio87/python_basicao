@@ -17,7 +17,6 @@ Clique duas vezes no arquivo do instalador para iniciar o processo de instalaç�
 
 Depois que a instalação for concluída, o Visual Studio Code pode ser iniciado automaticamente.
 
-<br>
 > **Importante**
 > 
 > Assim como vimos na instalação do Python, o VSC também pode ser instalado a partir da loja de apps Microsoft Store.

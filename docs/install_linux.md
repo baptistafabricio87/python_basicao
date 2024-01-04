@@ -1,5 +1,9 @@
 # Instalar o Python no Linux
 
+> **Observação**
+>
+> Se você não utiliza linux pode pular esta parte, mas se quiser saber um pouco mais fique por aqui.
+
 ## Gerenciador de pacotes
 
 O gerenciador de pacotes usado depende da distribuição do Linux. As distribuições Linux mais populares como Debian, Ubuntu e Mint incluem o APT, já distros como RHEL, Fedora e CentOS incluem YUM ou DNF.

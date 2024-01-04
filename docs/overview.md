@@ -37,4 +37,4 @@ Algo muito importante dentro de Python são as comunidades.
 
 Existem diversas no site da [Python Brasil](https://python.org.br/comunidades-locais/) veja neste link, além destas tem também [PyLadies](https://python.org.br/pyladies/), [AfroPython](https://afropython.org/), entre outras.
 
-Acho que posso dizer que somos parte de uma dessas comunidades!
+Dito isso, podemos dizer que somos parte de uma dessas comunidades!
