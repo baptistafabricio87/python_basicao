@@ -2,47 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/enviroment/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://baptistafabricio87.github.io/python_basicao/first_python_script/</loc>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/instalation/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/install_linux/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://baptistafabricio87.github.io/python_basicao/install_vsc_linux/</loc>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/install_vsc_windows/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/install_windows/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/overview/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/overview_vsc/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://baptistafabricio87.github.io/python_basicao/validation/</loc>
-         <lastmod>2023-11-29</lastmod>
+         <lastmod>2024-01-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://baptistafabricio87.github.io/python_basicao/vsc_python_extension/</loc>
+         <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
