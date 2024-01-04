@@ -5,13 +5,15 @@ site_url: https://baptistafabricio87.github.io/python_basicao/
 nav:
   - Introdução: index.md
   - Visão Geral: overview.md
-  - Ambiente Virtual: enviroment.md
+  - Ambiente: enviroment.md
   - Validar Python: validation.md
   - Instalação Linux: install_linux.md
   - Instalação Windows: install_windows.md
   - Visual Studio Code: overview_vsc.md
   - Instalar VSC no Windows: install_vsc_windows.md
   - Instalar VSC no Linux: install_vsc_linux.md
+  - Extensão Python VSC: vsc_python_extension.md
+  - Primeiro Script Python: first_python_script.md
 
 theme:
   language: pt-BR
@@ -35,3 +37,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
